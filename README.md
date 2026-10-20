@@ -34,7 +34,6 @@ Hasil penyaringan tersimpan di `data/events_filtered.csv` (581.848 baris).
 ```
 .
 ├── UTS_Graf_Rafly Anugrah Syahputra.ipynb   # notebook utama
-├── 2601_UTS-GSD.pdf                         # soal UTS
 ├── data/events_filtered.csv                 # data hasil filter P1 + P2
 ├── archive/                                 # dataset mentah (tidak di-commit)
 ├── docker-compose.yml                       # Neo4j
