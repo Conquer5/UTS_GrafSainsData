@@ -11,7 +11,4 @@ neo4j_data/
 # Dataset mentah RetailRocket (unduh dari Kaggle, ukuran besar)
 archive/
 
-# Editor / OS
-.vscode/
-.idea/
-.DS_Store
+
