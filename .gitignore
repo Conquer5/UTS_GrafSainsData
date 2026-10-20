@@ -1,0 +1,17 @@
+# Environment
+myvenv/
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Database Neo4j (dibuat oleh Docker)
+neo4j_data/
+
+# Dataset mentah RetailRocket (unduh dari Kaggle, ukuran besar)
+archive/
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
